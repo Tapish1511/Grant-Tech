@@ -7,7 +7,8 @@
       "category": "Abstract",
       "datetime": 1421903327,
       "author": "Balajiganapathi Venkateshvaran",
-      "comment_count": 8
+      "comment_count": 8,
+      "link": "#"
     },
     {
       "title": "Just Married",
@@ -190,36 +191,36 @@
       "comment_count": 6
     }
   ],
-  "grid": [
+  "sponsor": [
     {
-      "title": "Black Watch",
-      "small-img": "/assets/images/grid/black-watch-468x312.jpg",
-      "large-img": "/assets/images/grid/black-watch-1500x1000.jpg"
+      "id": 1,
+      "img": "./images/sponsors/b-logo-one.webp",
+      "link": "#"
     },
     {
-      "title": "Calculator Office",
-      "small-img": "/assets/images/grid/calculator-office-468x312.jpg",
-      "large-img": "/assets/images/grid/calculator-office-1500x1000.jpg"
+      "id": 2,
+      "img": "./images/sponsors/b-logo-two.webp",
+      "link": "#"
     },
     {
-      "title": "Coding Laptop",
-      "small-img": "/assets/images/grid/coding-laptop-468x312.jpg",
-      "large-img": "/assets/images/grid/coding-laptop-1500x998.jpg"
+      "id": 3,
+      "img": "./images/sponsors/b-logo-three.webp",
+      "link": "#"
     },
     {
-      "title": "iPhone Note Book",
-      "small-img": "/assets/images/grid/iphone-note-book-468x312.jpg",
-      "large-img": "/assets/images/grid/iphone-note-book-1500x1000.jpg"
+      "id": 4,
+      "img": "./images/sponsors/b-logo-four.webp",
+      "link": "#"
     },
     {
-      "title": "Minimal Office",
-      "small-img": "/assets/images/grid/minimal-office-468x312.jpg",
-      "large-img": "/assets/images/grid/minimal-office-1500x1000.jpg"
+      "id": 5,
+      "img": "./images/sponsors/b-logo-five.webp",
+      "link": "#"
     },
     {
-      "title": "Phone Concert",
-      "small-img": "/assets/images/grid/phone-concert-1500x1000.jpg",
-      "large-img": "/assets/images/grid/phone-concert-1500x1000.jpg"
+      "id": 6,
+      "img": "./images/sponsors/b-logo-six.webp",
+      "link": "#"
     }
   ]
 }

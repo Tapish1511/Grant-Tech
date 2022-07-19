@@ -214,6 +214,7 @@ img{
     border: 1px solid #efefef;
     transition: box-shadow, transform 300ms ease;
     position: relative;
+    align-items: start;
 }
 .blog-card:hover{
     box-shadow: 0 5px 10px 5px #e1e1e1;
@@ -224,6 +225,7 @@ img{
     grid-template-columns: 66% 16% 1% 16%;
     padding: 10px 15px;
     justify-content: space-between;
+    align-items: center;
     color: #888;
    
 }
@@ -238,19 +240,27 @@ img{
 }
 .card-social-el>li:first-child{
     text-align: left;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: start;
+    align-items: stretch;
+    column-gap: 5px;
 }
+
 .card-social-el>li:last-child{
     grid-column: 4;
     border-left: 1px solid #888;
 }
-
+.card-heading{
+    padding: 10px 15px;
+}
 
 .card-heading>a{
     font-size: 1.3rem;
     color: black;
     text-decoration: none;
     transition: color 300ms ease;
-    padding: 10px 15px;
+   
 }
 .card-heading>a:hover{
     color: #0aaaa0;
