@@ -385,7 +385,7 @@ img{
     text-decoration: none;
 }
 .footer-columns>h2{
-    padding: 1.5em 0;
+    padding: 2em 0;
     font-family: 'Raleway', sans-serif;
     position: relative;
     text-transform: uppercase;
@@ -419,7 +419,8 @@ img{
     padding: 0 0 10px;
 }
 #footer-email{
-   outline: none;
+    margin: 2em 0;
+    outline: none;
     padding: 5px ;
 }
 #send-mail{
@@ -429,7 +430,7 @@ img{
     background-color: #0aaaa0;
     padding: 5px 10px;
     position: absolute;
-    transform: translateX(-1px);
+    transform: translate(-1px, 1.9em);
 }
 
 /* *********************************footer-primary********************************************** */
